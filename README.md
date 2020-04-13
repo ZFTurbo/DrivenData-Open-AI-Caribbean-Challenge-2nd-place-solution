@@ -63,16 +63,16 @@ python gbm_classifiers/r17_run_lightgbm.py
 python r20_ensemble_avg.py
 ```
 
-**There is file run_inference.sh - which do all the stuff including pip installation of required modules etc.**
+**There is file run_inference.sh - which do all the stuff including pip installation of required modules etc.** It was independently tested on fresh system installation from scratch.
 
 Change this variable to location of your python (Anaconda)
 `export PATH="/var/anaconda3-temp/bin/"`
 Change this vairable to location of your code
 `export PYTHONPATH="$PYTHONPATH:/var/test_caribean/"`
 
-### Files for inference
+### Files needed for inference
 
-* [Models (~4.4 GB)](https://github.com/ZFTurbo/DrivenData-Open-AI-Caribbean-Challenge-2nd-place-solution/releases)
+* [Neural net weights (~4.4 GB)](https://github.com/ZFTurbo/DrivenData-Open-AI-Caribbean-Challenge-2nd-place-solution/releases)
 * [KFold splits](https://github.com/ZFTurbo/DrivenData-Open-AI-Caribbean-Challenge-2nd-place-solution/releases)
 
 ### Notes about a code
