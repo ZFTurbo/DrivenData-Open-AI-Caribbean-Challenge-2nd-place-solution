@@ -70,6 +70,11 @@ Change this variable to location of your python (Anaconda)
 Change this vairable to location of your code
 `export PYTHONPATH="$PYTHONPATH:/var/test_caribean/"`
 
+### Files for inference
+
+* [Models (~4.4 GB)](https://github.com/ZFTurbo/DrivenData-Open-AI-Caribbean-Challenge-2nd-place-solution/releases)
+* [KFold splits](https://github.com/ZFTurbo/DrivenData-Open-AI-Caribbean-Challenge-2nd-place-solution/releases)
+
 ### Notes about a code
 
 1) Change "ONLY_INFERENCE" constant in a00_common_functions.py to True for inference without training. You need to use the same
