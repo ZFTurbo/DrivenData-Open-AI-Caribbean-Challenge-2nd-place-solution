@@ -99,4 +99,4 @@ You must have the following:
 
 ## References
 
-Detailed description of method available at https://arxiv.org/
+Detailed description of method available at: [https://arxiv.org/abs/2004.11482](https://arxiv.org/abs/2004.11482)
